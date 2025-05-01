@@ -9,7 +9,7 @@ This project implements and evaluates the **Hierarchical Refinement** algorithm 
 
 
 Peter Halmos, Julian Gold, Xinhao Liu, Benjamin J. Raphael.
-*Hierarchical Refinement: Optimal Transport to Infinity and Beyond*, 2024.
+*Hierarchical Refinement: Optimal Transport to Infinity and Beyond*, 2025.
 [arXiv:2503.03025](https://arxiv.org/abs/2503.03025)
 
 
