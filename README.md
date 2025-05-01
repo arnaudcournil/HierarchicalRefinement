@@ -1,4 +1,4 @@
-# 🧠 Optimal Hierarchical Transport on COCO 2017
+# 🧠 Optimal Transport - Hierarchical Refinement on COCO 2017
 
 
 This project implements and evaluates the **Hierarchical Refinement** algorithm introduced in the paper [*Hierarchical Refinement: Optimal Transport to Infinity and Beyond*](https://arxiv.org/pdf/2503.03025) by Halmos et al., on visual representations extracted from the **COCO 2017** dataset.
