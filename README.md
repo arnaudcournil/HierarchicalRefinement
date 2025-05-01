@@ -35,6 +35,7 @@ The `coco.ipynb` notebook:
 
 
 ```bash
+├── bench.png
 ├── coco.ipynb # Main notebook
 ├── resnet50-0676ba61.pth # Pre-trained ResNet50 model
 ├── embeddings
