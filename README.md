@@ -17,7 +17,7 @@ Peter Halmos, Julian Gold, Xinhao Liu, Benjamin J. Raphael.
 ## 🔍 Objective
 
 
-The objective is to use **Hierarchical Refinement** to approximate an optimal transport between image representations extracted using a pre-trained **ResNet50**, on a subset of the **COCO 2017 (val)** dataset.
+The objective is to use **Hierarchical Refinement** to approximate an optimal transport between image representations extracted using a pre-trained **ResNet50**, on a subset of the **COCO 2017 (val)** dataset using JAX and OTT-JAX librairies.
 
 
 ## 🧪 Notebook structure
